@@ -1,2 +1,2 @@
-# CometVisuals
-Design Agency Buisness Website 
+# bootstrap-tindog
+This is a bootstrap website.
